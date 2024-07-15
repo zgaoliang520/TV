@@ -1,0 +1,40 @@
+{
+ "urls": [
+   {
+   "name": "19+", 
+   "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/PG/jsm.json"
+  },
+  {
+   "name": "高天流云", 
+   "url": "https://github.com/gaotianliuyun/gao/raw/master/9918.json"
+  },
+  {
+   "name": "CandyMuj", 
+   "url": "https://tv.lan2wan.top/candymuj18.json"
+  },
+  {
+   "name": "xiaolinshao", 
+   "url": "https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
+  },
+  {
+   "name": "qirenzhidao", 
+   "url": "https://github.com/qirenzhidao/tvbox18/raw/main/adult.json"
+  },
+  {
+   "name": "18cj", 
+   "url": "http://akun.work.gd/upload/18cj.json"
+  },
+  {
+   "name": "18-", 
+   "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/PG/18-.json"
+  },
+  {
+   "name": "18x", 
+   "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/PG/18x.json"
+  },
+  {
+   "name": "xiongjian83", 
+   "url": "https://raw.githubusercontent.com/xiongjian83/TvBox/main/19.json"
+  }
+ ]
+}

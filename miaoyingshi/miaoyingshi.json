@@ -20,7 +20,7 @@
       "timeout": 15,
       "playerType": 2,
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "ngys",
@@ -43,7 +43,7 @@
       "timeout": 15,
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "pgys",
@@ -53,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "kkys",
@@ -64,7 +64,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "nkys",
@@ -75,7 +75,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "jqys",
@@ -86,7 +86,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "btys",
@@ -96,7 +96,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "lbys",
@@ -108,7 +108,7 @@
       "changeable": 1,
       "timeout": 15,
       "ext": "https://www.libvio.pw/",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "atys",
@@ -120,7 +120,7 @@
       "changeable": 1,
       "timeout": 15,
       "ext": "https://auete.pro/",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "yzys",
@@ -160,7 +160,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "czys",
@@ -182,7 +182,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.69mj.com/xgapp.php/v2/",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "zxys",
@@ -193,7 +193,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzj.pro/",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "Qxys",
@@ -203,7 +203,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/七新影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/七新影视.json"
     },
     {
       "key": "ynys",
@@ -213,8 +213,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/鸭奈影视.json",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/鸭奈影视.json",
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "ssys",
@@ -224,8 +224,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/三思影视.json",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/三思影视.json",
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "nfys",
@@ -235,8 +235,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/奈飞影视.json",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/奈飞影视.json",
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "qyys",
@@ -246,7 +246,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/奇优影院.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/奇优影院.json"
     },
     {
       "key": "lgys",
@@ -256,8 +256,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/蓝光影视.json",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/蓝光影视.json",
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "phys",
@@ -269,7 +269,7 @@
       "filterable": 1,
       "playerType": 1,
       "ext": "https://physvod.com",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "rzys",
@@ -281,7 +281,7 @@
       "filterable": 1,
       "playerType": 2,
       "ext": "http://rzys.xyz/",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "dgys",
@@ -291,7 +291,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/达龟影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/达龟影视.json"
     },
     {
       "key": "Akys",
@@ -301,8 +301,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/爱看影视.json",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/爱看影视.json",
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "tvys",
@@ -312,7 +312,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/TVB云播.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/TVB云播.json"
     },
     {
       "key": "syys",
@@ -322,8 +322,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/速映影视.json",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/速映影视.json",
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "Shys",
@@ -333,8 +333,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/双黄影视.json",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/双黄影视.json",
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "wwys",
@@ -344,7 +344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/五五影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/五五影视.json"
     },
     {
       "key": "Hhys",
@@ -354,7 +354,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/黑狐影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/黑狐影视.json"
     },
     {
       "key": "ggys",
@@ -364,87 +364,87 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/光棍影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/光棍影视.json"
     },
     {
       "key": "wfys",
       "name": "网飞┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/网飞影视.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/网飞影视.js"
     },
     {
       "key": "xsys",
       "name": "先生┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/电影先生.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/电影先生.js"
     },
     {
       "key": "mays",
       "name": "米爱┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/米爱影视.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/米爱影视.js"
     },
     {
       "key": "qxys",
       "name": "秋霞┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/秋霞影视.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/秋霞影视.js"
     },
     {
       "key": "xcys",
       "name": "星辰┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/星辰影视.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/星辰影视.js"
     },
     {
       "key": "jpys",
       "name": "荐片┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/荐片影视.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/荐片影视.js"
     },
     {
       "key": "shys",
       "name": "骚火┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/骚火影视.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/骚火影视.js"
     },
     {
       "key": "zzys",
       "name": "子子┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/子子影视.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/子子影视.js"
     },
     {
       "key": "vdys",
@@ -454,7 +454,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "vfys",
@@ -466,7 +466,7 @@
       "filterable": 1,
       "playerType": 2,
       "ext": "https://www.voflix.me/",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "lzzy",
@@ -594,7 +594,7 @@
         "喜剧片",
         "战争片"
       ],
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "kkzy",
@@ -638,51 +638,51 @@
       "key": "qysp",
       "name": "奇艺┃视频",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/奇艺视频.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/奇艺视频.js"
     },
     {
       "key": "txsp",
       "name": "腾讯┃视频",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/腾讯视频.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/腾讯视频.js"
     },
     {
       "key": "yksp",
       "name": "优酷┃视频",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/优酷视频.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/优酷视频.js"
     },
     {
       "key": "mgsp",
       "name": "芒果┃视频",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/芒果视频.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/芒果视频.js"
     },
     {
       "key": "sgys",
       "name": "搜狗┃视频",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/搜狗视频.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/搜狗视频.js"
     },
     {
       "key": "ygcl",
@@ -692,8 +692,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/影港磁力.json",
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/影港磁力.json",
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "6vcl",
@@ -713,7 +713,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "xlbc",
@@ -723,7 +723,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "dmbs",
@@ -751,67 +751,67 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
     },
     {
       "key": "ntdm",
       "name": "柠桐┃动漫",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/柠桐动漫.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/柠桐动漫.js"
     },
     {
       "key": "qmdm",
       "name": "奇米┃动漫",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/奇米动漫.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/奇米动漫.js"
     },
     {
       "key": "kbdm",
       "name": "看吧┃动漫",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/看吧动漫.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/看吧动漫.js"
     },
     {
       "key": "88ty",
       "name": "八八┃体育",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/八八体育.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/八八体育.js"
     },
     {
       "key": "qmty",
       "name": "JRK ┃体育",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/JRK体育.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/JRK体育.js"
     },
     {
       "key": "gdty",
       "name": "格斗┃体育",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/格斗体育.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/格斗体育.js"
     },
     {
       "key": "qety",
@@ -821,7 +821,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/企鹅体育.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/企鹅体育.json"
     },
     {
       "key": "mxmv",
@@ -835,47 +835,47 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/明星MV.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/明星MV.json"
     },
     {
       "key": "kqmv",
       "name": "酷奇┃ MV ",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/酷奇视频.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/酷奇视频.js"
     },
     {
       "key": "hyzb",
       "name": "虎牙┃直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/虎牙直播.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/虎牙直播.js"
     },
     {
       "key": "dyzb",
       "name": "斗鱼┃直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/斗鱼直播.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/斗鱼直播.js"
     },
     {
       "key": "blzb",
       "name": "哔哩┃直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/哔哩直播.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/哔哩直播.js"
     },
     {
       "key": "jhzb",
@@ -890,21 +890,21 @@
       "key": "jdsp",
       "name": "聚短┃视频",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/聚短视频.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/聚短视频.js"
     },
     {
       "key": "ysxs",
       "name": "有声┃小说",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/有声小说.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/有声小说.js"
     },
     {
       "key": "blhj",
@@ -914,7 +914,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/哔哩合集.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/哔哩合集.json"
     },
     {
       "key": "blgq",
@@ -924,7 +924,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/哔哩歌曲.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/哔哩歌曲.json"
     },
     {
       "key": "jjjx",
@@ -939,31 +939,31 @@
       "key": "qydh",
       "name": "奇艺┃动画",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/奇艺动画.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/奇艺动画.js"
     },
     {
       "key": "txdh",
       "name": "腾讯┃动画",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/腾讯动画.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/腾讯动画.js"
     },
     {
       "key": "mgdh",
       "name": "芒果┃动画",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/芒果动画.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/芒果动画.js"
     },
     {
       "key": "psss",
@@ -977,7 +977,7 @@
         "aliToken": "MeowTV/token.txt",
         "from": "4k|auto|fhd"
       },
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "bdsp",
@@ -988,7 +988,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "type_flag": 0,
-      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/lib/meow5.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"
+      "jar": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/lib/meow5.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"
     },
     {
       "key": "push_agent",
@@ -1024,7 +1024,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/miaoyingshi/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/miaoyingshi/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
   "wallpaper": "http://tool.teyonds.com/api",
   "doh": [
     {

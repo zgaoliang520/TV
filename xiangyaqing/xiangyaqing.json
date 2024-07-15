@@ -1,12 +1,12 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/xyq_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
+  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/xyq_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
   "lives": [
     {
       "name": "本地live文件",
       "type": "0",
       "pass": true,
-      "url": "http://127.0.0.1:9978/file/XYQtvbox/xiangyaqing/live.txt",
+      "url": "http://127.0.0.1:9978/file/XYQxiangyaqing/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -14,7 +14,7 @@
       "name": "FMM_IPV6",
       "type": "0",
       "pass": true,
-      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/ipv6.m3u",
+      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/ipv6.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
@@ -34,36 +34,36 @@
       "key": "drpy_js_豆瓣",
       "name": "豆瓣[js]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/drpy.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/drpy.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/奇珍异兽.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优酷[js]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/优酷.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾云驾雾[js]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/腾云驾雾.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "百忙无果[js]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/百忙无果.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/百忙无果.js"
     },
     {
       "key": "csp_Zhaozy",
@@ -83,7 +83,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQtvbox/xiangyaqing/alitoken.txt"
+      "ext": "http://127.0.0.1:9978/file/XYQxiangyaqing/alitoken.txt"
     },
     {
       "key": "csp_Yisou",
@@ -93,7 +93,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQtvbox/xiangyaqing/alitoken.txt"
+      "ext": "http://127.0.0.1:9978/file/XYQxiangyaqing/alitoken.txt"
     },
     {
       "key": "csp_Upyunso",
@@ -103,7 +103,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQtvbox/xiangyaqing/alitoken.txt"
+      "ext": "http://127.0.0.1:9978/file/XYQxiangyaqing/alitoken.txt"
     },
     {
       "key": "csp_XYQHiker_影搜",
@@ -113,7 +113,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/影搜.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/影搜.json"
     },
     {
       "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -123,7 +123,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/玩偶哥哥.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/玩偶哥哥.json"
     },
     {
       "key": "csp_XYQHikerAL_云盘资源",
@@ -133,7 +133,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/云盘资源.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/云盘资源.json"
     },
     {
       "key": "push_agent",
@@ -143,7 +143,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQtvbox/xiangyaqing/alitoken.txt"
+      "ext": "http://127.0.0.1:9978/file/XYQxiangyaqing/alitoken.txt"
     },
     {
       "key": "csp_Mp4Mov",
@@ -276,7 +276,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/Bili.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/Bili.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝",
@@ -286,7 +286,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/兔小贝.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/兔小贝.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -296,7 +296,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/兔小贝2.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/兔小贝2.json"
     },
     {
       "key": "csp_XYQHiker_播视童趣",
@@ -306,7 +306,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/播视童趣.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/播视童趣.json"
     },
     {
       "key": "csp_Bili幼儿",
@@ -316,7 +316,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/幼儿乐园.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/幼儿乐园.json"
     },
     {
       "key": "csp_Bili少儿",
@@ -326,7 +326,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/少儿教育.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/少儿教育.json"
     },
     {
       "key": "csp_Bili小学",
@@ -336,7 +336,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/小学课堂.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/小学课堂.json"
     },
     {
       "key": "csp_Bili初中",
@@ -346,7 +346,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/初中课堂.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/初中课堂.json"
     },
     {
       "key": "csp_Bili高中",
@@ -356,17 +356,17 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/高中课堂.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/高中课堂.json"
     },
     {
       "key": "JS哔哩直播",
       "name": "哔哩直播[js]",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/哔哩直播.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/哔哩直播.js"
     },
     {
       "key": "csp_Bili短剧",
@@ -376,7 +376,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/Bili短剧.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/Bili短剧.json"
     },
     {
       "key": "csp_Yj1211",
@@ -392,8 +392,8 @@
       "key": "DRJS_虎牙",
       "name": "虎牙直播(JS)",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/虎牙直播.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/虎牙直播.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -406,7 +406,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/xiangyaqing/lib/虎牙直播.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/xiangyaqing/lib/虎牙直播.json"
     }
   ],
   "parses": [

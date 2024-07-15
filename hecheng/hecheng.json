@@ -1,11 +1,11 @@
 {
-  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/HeChengChaXiu.jar",
+  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/HeChengChaXiu.jar",
   "wallpaper": "http://rihou.cc:88/壁纸",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/zb.txt",
+      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/zb.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
@@ -15,11 +15,11 @@
       "key": "js_豆瓣热播",
       "name": "微信公众号：日后魔改",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/Api.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/Api.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/Doubanrebo.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/Doubanrebo.js"
     },
     {
       "key": "AliYunPan",
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/玩偶哥哥.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/玩偶哥哥.json"
     },
     {
       "key": "wwgg",
@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/玩我哥哥.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/玩我哥哥.json"
     },
     {
       "key": "csp_xBPQ_白嫖",
@@ -58,7 +58,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/白嫖影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/白嫖影视.json"
     },
     {
       "key": "csp_厂长",
@@ -88,7 +88,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/98影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/98影视.json"
     },
     {
       "key": "csp_七新",
@@ -98,7 +98,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/七新影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/七新影视.json"
     },
     {
       "key": "csp_星辰",
@@ -108,7 +108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/星辰影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/星辰影视.json"
     },
     {
       "key": "csp_农民",
@@ -118,7 +118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/农民影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/农民影视.json"
     },
     {
       "key": "csp_骚火",
@@ -128,7 +128,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/骚火影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/骚火影视.json"
     },
     {
       "key": "csp_蛋蛋",
@@ -138,7 +138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/蛋蛋影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/蛋蛋影视.json"
     },
     {
       "key": "csp_xBPQ_奇优",
@@ -148,7 +148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/奇优影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/奇优影视.json"
     },
     {
       "key": "csp_xBPQ_视觉",
@@ -158,7 +158,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/新视觉影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/新视觉影视.json"
     },
     {
       "key": "csp_黑狐",
@@ -168,7 +168,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/黑狐影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/黑狐影视.json"
     },
     {
       "key": "csp_JianPian",
@@ -198,7 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/tvboxt/tok.txt"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/tvboxt/tok.txt"
     },
     {
       "key": "csp_AliPS",
@@ -208,7 +208,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/tvbox/hecheng/tok.txt"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/hecheng/tok.txt"
     },
     {
       "key": "csp_Yisou",
@@ -218,7 +218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/tvbox/hecheng/tok.txt"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/hecheng/tok.txt"
     },
     {
       "key": "csp_Upyunso",
@@ -228,7 +228,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/tvbox/hecheng/tok.txt"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/hecheng/tok.txt"
     },
     {
       "key": "cctv",
@@ -237,7 +237,7 @@
       "api": "csp_CCTV",
       "searchable": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/央视大全.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/央视大全.json"
     },
     {
       "key": "py_cctv_少儿",
@@ -247,7 +247,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/py_央视少儿.py"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/py_央视少儿.py"
     },
     {
       "key": "央视经典",
@@ -257,7 +257,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/哔哩经典.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/哔哩经典.json"
     },
     {
       "key": "py_cctv_企鹅",
@@ -267,7 +267,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/py_企鹅体育.py"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/py_企鹅体育.py"
     },
     {
       "key": "mtv_xp_动漫巴士",
@@ -277,7 +277,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/动漫巴士.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/动漫巴士.json"
     },
     {
       "key": "mtv_xp_维奇动漫",
@@ -287,7 +287,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/维奇动漫.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/维奇动漫.json"
     },
     {
       "key": "csp_短剧",
@@ -297,7 +297,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/短剧网.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/短剧网.json"
     },
     {
       "key": "哔哩音乐",
@@ -307,7 +307,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/哔哩音乐.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/哔哩音乐.json"
     },
     {
       "key": "幼儿教育",
@@ -317,7 +317,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/哔哩幼小.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/哔哩幼小.json"
     },
     {
       "key": "哔哩小学",
@@ -327,7 +327,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/哔哩小学.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/哔哩小学.json"
     },
     {
       "key": "哔哩初中",
@@ -337,7 +337,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/哔哩初中.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/哔哩初中.json"
     },
     {
       "key": "哔哩高中",
@@ -347,7 +347,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/hecheng/lib/哔哩高中.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/hecheng/lib/哔哩高中.json"
     }
   ],
   "parses": [

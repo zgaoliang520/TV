@@ -2,7 +2,7 @@
  "urls": [
    {
    "name": "19+", 
-   "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/PG/jsm.json"
+   "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/jsm.json"
   },
   {
    "name": "高天流云", 
@@ -26,15 +26,15 @@
   },
   {
    "name": "18-", 
-   "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/PG/18-.json"
+   "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/18-.json"
   },
   {
    "name": "18x", 
-   "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/PG/18x.json"
+   "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/18x.json"
   },
   {
    "name": "xiongjian83", 
-   "url": "https://raw.githubusercontent.com/xiongjian83/TvBox/main/19.json"
+   "url": "https://raw.githubusercontent.com/xiongjian83/main/19.json"
   }
  ]
 }

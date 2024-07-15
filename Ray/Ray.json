@@ -1,18 +1,18 @@
 {
   "wallpaper": "https://xhdwc.tk/api/img.php",
-  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/Ray/gd5ic01b6d4922692401eac6018178d033d06",
+  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/Ray/gd5ic01b6d4922692401eac6018178d033d06",
   "lives": [
     {
       "name": "tvlive",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/Ray/lib/tvlive.txt",
+      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/Ray/lib/tvlive.txt",
       "playerType": 2
     },
     {
       "name": "嗅探",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/Ray/lib/xiutan.m3u"
+      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/Ray/lib/xiutan.m3u"
     }
   ],
   "sites": [
@@ -134,7 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/Ray/lib/nmys.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/Ray/lib/nmys.json"
     },
     {
       "key": "低端",
@@ -226,8 +226,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/Ray/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/Ray/lib/jp.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/Ray/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/Ray/lib/jp.js"
     },
     {
       "key": "新6V",
@@ -395,7 +395,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/Ray/lib/bilibili.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/Ray/lib/bilibili.json"
     },
     {
       "key": "课堂教育",
@@ -405,7 +405,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/Ray/lib/xx1.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/Ray/lib/xx1.json"
     },
     {
       "key": "少儿教育",
@@ -415,7 +415,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/Ray/lib/xx2.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/Ray/lib/xx2.json"
     },
     {
       "key": "小学教育",
@@ -425,7 +425,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/Ray/lib/xx3.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/Ray/lib/xx3.json"
     },
     {
       "key": "初中教育",
@@ -435,7 +435,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/Ray/lib/xx4.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/Ray/lib/xx4.json"
     },
     {
       "key": "高中教育",
@@ -445,7 +445,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/Ray/lib/xx5.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/Ray/lib/xx5.json"
     }
   ],
   "doh": [

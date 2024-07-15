@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/fty.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2",
+  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/fty.jar;md5;70471410f8e5a1bf20eb64b6b402e5c2",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -117,7 +117,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/nmys.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/nmys.json"
     },
     {
       "key": "小点",
@@ -158,8 +158,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/jp.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/jp.js"
     },
     {
       "key": "zxzj",
@@ -286,8 +286,8 @@
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/jrk.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/jrk.js",
       "style": {
         "type": "list"
       },
@@ -306,14 +306,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/企鹅直播.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/企鹅直播.json"
     },
     {
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/酷奇MV.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -334,7 +334,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/MTV.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/MTV.json"
     },
     {
       "key": "csp_Yj1211",
@@ -350,8 +350,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/huya2.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -365,8 +365,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/斗鱼直播.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -380,8 +380,8 @@
       "key": "聚短视频js",
       "name": "📽️聚短┃视频",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/短视频.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -390,8 +390,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/有声小说吧.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -518,7 +518,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/bilibili.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -532,14 +532,14 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/biliych.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/biliych.json"
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/兔小贝.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -560,7 +560,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/少儿教育.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -574,7 +574,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/小学课堂.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -588,7 +588,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/初中课堂.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -602,7 +602,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/高中课堂.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/高中课堂.json"
     },
     {
       "key": "Nbys",
@@ -662,19 +662,19 @@
     {
       "name": "多线ITV",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/itvlist.m3u",
+      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/itvlist.m3u",
       "playerType": 1
     },
     {
       "name": "XIUTAN",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/xiutan.m3u"
+      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/xiutan.m3u"
     },
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/fty/lib/ipv6.m3u",
+      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/fty/lib/ipv6.m3u",
       "playerType": 1
     }
   ]

@@ -19,7 +19,7 @@
             "type": 3,
             "api": "csp_Doll",
             "searchable": 1,
-            "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/lib/tokenm.json$$$null$$$127.0.0.1:10072",
+            "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/lib/tokenm.json$$$null$$$127.0.0.1:10072",
             "style": {
                 "type": "rect",
                 "ratio": 1.309
@@ -1016,7 +1016,7 @@
             "name": "直播",
             "type": 0,
             "playerType": 1,
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+            "url": "https://agit.ai/Yoursmile7/raw/branch/master/live.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },

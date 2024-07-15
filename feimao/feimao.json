@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082",
+  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "logo": "http://我不是.肥猫.live/fatcat.jpg",
   "sites": [
@@ -23,8 +23,8 @@
       "name": "🎃┃南瓜┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/南瓜.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/南瓜.js"
     },
     {
       "key": "新视觉",
@@ -156,8 +156,8 @@
       "key": "FreeOK",
       "name": "️️👌┃Fre┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/FreeOK.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/FreeOK.js"
     },
     {
       "key": "哔嘀",
@@ -192,31 +192,31 @@
       "name": " 👗┃骚火┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/骚火.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/骚火.js"
     },
     {
       "key": "爱看影视",
       "name": "❤┃爱看┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/爱看.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/爱看.js"
     },
     {
       "key": "云播影视",
       "name": "☁️┃云播┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/TVB云播.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/TVB云播.js"
     },
     {
       "key": "小蚂蚁",
       "name": "🐜┃蚂蚁┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/小蚂蚁2.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/小蚂蚁2.js"
     },
     {
       "key": "csp_Xb6v",
@@ -242,14 +242,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/开心HK影视.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/开心HK影视.json"
     },
     {
       "key": "小胡",
       "name": "🍈️┃小胡┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/小胡.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/小胡.js",
       "playerType": 2
     },
     {
@@ -257,23 +257,23 @@
       "name": "🛣┃低端┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/ddys.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/ddys.js"
     },
     {
       "key": "奇优",
       "name": " 🍩┃奇优┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/奇优.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/奇优.js"
     },
     {
       "key": "虎虎",
       "name": "🐯┃虎虎┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/虎虎.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/虎虎.json"
     },
     {
       "key": "黑狐",
@@ -360,7 +360,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/alist.json"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/alist.json"
     },
     {
       "key": "csp_BookTing",
@@ -441,8 +441,8 @@
       "key": " 在线┃直播1",
       "name": "📺┃竞技┃直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/JustLive.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/JustLive.js",
       "gridview": "0-0-H",
       "style": {
         "type": "rect",
@@ -505,9 +505,9 @@
       "key": "drpy_哔哩",
       "name": "🅱┃哔哩┃合集",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/drpy2.min.js",
       "playerType": 1,
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/B站.js"
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/B站.js"
     },
     {
       "key": "push_agent",
@@ -606,7 +606,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/feimao/lib/tvzb.txt",
+      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/feimao/lib/tvzb.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }

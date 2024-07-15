@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/moyu.php;md5;be6121b5c37471b191114027123912d2",
+  "spider": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/moyu.php;md5;be6121b5c37471b191114027123912d2",
   "wallpaper": "http://摸鱼儿.xiyan.life/摸鱼壁纸/api.php",
   "warningText": "摸鱼儿：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
@@ -25,7 +25,7 @@
       "key": "直播转点播",
       "name": "📺️IPV6┃电视┃直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/moyulive.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/moyulive.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
@@ -40,7 +40,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/moyu/token.txt"
+      "ext": "http://127.0.0.1:9978/file/moyu/token.txt"
     },
     {
       "key": "弹幕配置",
@@ -66,7 +66,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/moyu/token.txt",
+        "token": "http://127.0.0.1:9978/file/moyu/token.txt",
         "wogg": true,
         "danmu": true
       },
@@ -82,8 +82,8 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/moyu/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/moyu/quark.txt",
+        "token": "http://127.0.0.1:9978/file/moyu/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/moyu/quark.txt",
         "site": "https://tudou.lvdoui.top",
         "danmu": true
       },
@@ -99,8 +99,8 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/moyu/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/moyu/quark.txt",
+        "token": "http://127.0.0.1:9978/file/moyu/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/moyu/quark.txt",
         "site": "https://wobge.run.goorm.io/",
         "danmu": true
       },
@@ -116,8 +116,8 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/moyu/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/moyu/quark.txt",
+        "token": "http://127.0.0.1:9978/file/moyu/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/moyu/quark.txt",
         "site": "https://tv.yydsys.top/",
         "danmu": true
       },
@@ -133,8 +133,8 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/moyu/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/moyu/quark.txt",
+        "token": "http://127.0.0.1:9978/file/moyu/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/moyu/quark.txt",
         "danmu": true
       },
       "timeout": 25
@@ -651,29 +651,29 @@
       "key": "看呗",
       "name": "🎞️看呗┃蓝光┃在线",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/看了么.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/看了么.js"
     },
     {
       "key": "网飞影视",
       "name": "🛸网飞┃蓝光┃在线",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/网飞TV.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/网飞TV.js"
     },
     {
       "key": "在线之家",
       "name": "🔗在线┃蓝光┃纯净",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/在线之家.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/在线之家.js"
     },
     {
       "key": "碟调影视",
       "name": "🏰碟调┃蓝光┃在线",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/碟调影视.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/碟调影视.js"
     },
     {
       "key": "csp_Dm84",
@@ -728,36 +728,36 @@
       "key": "58动漫",
       "name": "🛹68┃动漫┃蓝光",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/58动漫.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/58动漫.js"
     },
     {
       "key": "去看吧",
       "name": "🫣看吧┃动漫┃蓝光",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/去看吧.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/去看吧.js"
     },
     {
       "key": "曲奇动漫",
       "name": "🍪曲奇┃动漫┃蓝光",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/曲奇动漫.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/曲奇动漫.js"
     },
     {
       "key": "爱弹幕",
       "name": "🛎️光幕┃动漫┃蓝光",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/爱弹幕.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/爱弹幕.js"
     },
     {
       "key": "喵次元",
       "name": "😹喵喵┃动漫┃蓝光",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/喵次元.js"
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/喵次元.js"
     },
     {
       "key": "无忧短剧",
@@ -811,8 +811,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播┃蓝光",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/huya2.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -826,8 +826,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播┃蓝光",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/斗鱼直播.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -911,8 +911,8 @@
       "key": "drpy_js_310直播",
       "name": "⚽310┃直播┃蓝光",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/310直播.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/310直播.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -933,8 +933,8 @@
       "key": "drpy_js_JRKAN直播",
       "name": "⚽JRK┃直播┃蓝光",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/jrk.js",
+      "api": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/jrk.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -987,7 +987,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/moyu/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/moyu/token.txt+4k|auto|fhd"
     },
     {
       "key": "盘搜",
@@ -1012,7 +1012,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/moyu/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/moyu/token.txt+4k|auto|fhd"
     },
     {
       "key": "Up云搜",
@@ -1037,7 +1037,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/moyu/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/moyu/token.txt+4k|auto|fhd"
     },
     {
       "key": "盘Se",
@@ -1062,7 +1062,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/moyu/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/moyu/token.txt+4k|auto|fhd"
     },
     {
       "key": "影搜弹幕",
@@ -1637,7 +1637,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/tvbox/moyu/lib/ipv6.m3u",
+      "url": "https://raw.githubusercontent.com/asdf1319964f/TV/master/moyu/lib/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
